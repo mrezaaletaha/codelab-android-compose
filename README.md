@@ -1,3 +1,7 @@
+> [!TIP]  
+> **The completed Codelabs can be found in the `end` branch.**  
+
+
 # Jetpack Compose Codelabs
 
 This repository contains a set of Android Studio projects to help you learn about
